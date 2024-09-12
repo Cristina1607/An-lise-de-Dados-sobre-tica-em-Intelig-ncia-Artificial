@@ -1,0 +1,20 @@
+/etica-em-ia
+│
+├── /data
+│   ├── dataset.csv         
+│
+├── /notebooks
+│   ├── exploratory_analysis.ipynb  
+│   ├── trend_analysis.ipynb      
+│   ├── topic_modeling.ipynb        
+│   ├── sentiment_analysis.ipynb    
+│
+├── /visualizations
+│   ├── trends_over_time.png        
+│   ├── topic_distribution.png       
+│   ├── sentiment_overview.png       
+│
+├── requirements.txt                
+├── .gitignore                    
+├── LICENSE                        
+└── README.md                       
