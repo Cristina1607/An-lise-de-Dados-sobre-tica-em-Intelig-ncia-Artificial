@@ -1,0 +1,8 @@
+# Ignorar arquivos temporários e de configuração
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.env
+*.log
+results/figures/*.png
